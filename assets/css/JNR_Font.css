@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'JNR_Font';
+	src: url(../../assets/fonts/JNR_Font-cd6d69ad91507c915d0b6e9e28bc9320.woff2) format('woff2'),
+	url(../../assets/fonts/JNR_Font-789827083b44c7b8e1480c58e97fc6bb.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
